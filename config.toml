@@ -2,20 +2,10 @@ site_title = "MyArxiv"
 limit_days = 7
 cache_url = "https://epicmouse667.github.io/MyArxiv/cache.json"
 
-# [[sources]]
-# limit = 150
-# category = "cs.CL"
-# title = "Computation and Language"
-
 [[sources]]
 limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
-
-# [[sources]]
-# limit = 150
-# category = "cs.IR"
-# title = "Information Retrieval"
 
 [[sources]]
 limit = 150
