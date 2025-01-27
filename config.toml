@@ -3,17 +3,17 @@ limit_days = 14
 cache_url = "https://epicmouse667.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 250
+limit = 1000
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
-limit = 250
+limit = 1000
 category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
-limit = 250
+limit = 500
 category = "cs.MM"
 title = "Multimedia"
 
