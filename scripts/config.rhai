@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_topic = ["Pose","Animation","Multi-shot","Control","Video"];
+let titles_topic = ["Pose","Animation","Multi-shot","Control","Video","Facial","Motion","Human"];
 let titles =  titles_type + titles_topic;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
