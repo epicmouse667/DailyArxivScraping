@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 14
-cache_url = "https://epicmouse667.github.io/MyArxiv/cache.json"
+cache_url = "https://epicmouse667.github.io/DailyArxivScraping/cache.json"
 
 [[sources]]
 limit = 1000
